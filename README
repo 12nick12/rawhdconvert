@@ -1,4 +1,4 @@
-This script is linux only based in bash. It's needs find, mutt, sed, sickbeard_mp4_automator and all of it's dependencies.
+This script is linux only based in bash. It needs find, mutt, sed, sickbeard_mp4_automator and all of it's dependencies.
 
 To use the script you /location/to/script/run.sh "location_to_be_converted" extension_without_period amount_of_files
 
