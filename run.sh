@@ -1,6 +1,6 @@
 #!/bin/bash
-sicklocation="/opt/sickbeard_mp4_automator/manual.py" #Location of sickbeard_mp4_automator
-tsdate="/root/scripts/rawhdconvert/ts.$(date +'%Y%m%d')" #Create current date and time
+sicklocation="/opt/sickbeard_mp4_automator/manual.py" # Location of sickbeard_mp4_automator
+tsdate="/root/scripts/rawhdconvert/ts.$(date +'%Y%m%d')" # Create current date and time
 tsdatec=$tsdate # Not sure why I did this
 ts="/root/scripts/rawhdconvert/ts" # location of ts. TS is the temp file that holds files to be converted
 location="$1" # Folder you want to search in
